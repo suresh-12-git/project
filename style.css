@@ -117,7 +117,7 @@ header label{
       
 }
 .banner-container{
-    background-image:url("../images/left-banner-image.jpg") ;
+    background-image:url("./images/left-banner-image.jpg") ;
     background-size:cover ;
     background-position: center;
     height:500px;
@@ -136,7 +136,7 @@ header label{
      
 }
 .box1{
-    background-image: url("../images/baner-right-image-01.jpg");
+    background-image: url("./images/baner-right-image-01.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -150,7 +150,7 @@ header label{
     
 }
 .box2{
-    background-image: url("../images/baner-right-image-02.jpg");
+    background-image: url("./images/baner-right-image-02.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -161,7 +161,7 @@ header label{
     margin: 10% 10%;
 }
 .box3{
-    background-image: url("../images/baner-right-image-03.jpg");
+    background-image: url("./images/baner-right-image-03.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -172,7 +172,7 @@ header label{
     margin: 10% 10%;
 }
 .box4{
-    background-image: url("../images/baner-right-image-04.jpg");
+    background-image: url("./images/baner-right-image-04.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
